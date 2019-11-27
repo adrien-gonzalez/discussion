@@ -82,7 +82,7 @@ else
 		<img class="rotate" src="img/parcyellowstone.jpg">
 		<img class="photosus" src="img/parc.jpg">
 		<img class="rotate" src="img/saltlake.jpg">
-		<img class="photosus" src="img/bizons.jpg">
+		<img class="photosus" src="img/bisons.jpg">
 	</div>
 </article>
 
