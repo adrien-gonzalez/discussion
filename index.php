@@ -52,7 +52,9 @@ else
 		</header>
 
 <div class="hautpage">
-	<img class="zoom" src="img/fond2div1.jpg" width="25%">
+	<video class="zoom" width="25%" muted autoplay loop>
+		<source src="videos/rodeos.mp4" type="video/mp4" />
+	</video>
 </div>
 
 <article class="textpresentation">
