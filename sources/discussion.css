@@ -96,7 +96,7 @@ margin-bottom:3%;
 
 .milieupage{
 
-background-color:white;
+background-color:#FDEBD0 ;
 margin-top:10%;	
 width:80%;	
 text-align:center;
@@ -109,7 +109,7 @@ box-shadow: 0px 0px 10px 0px rgba(119, 119, 119, 0.75);
 .milieupage2{
 
 margin-top:5%;
-background-color:white;	
+background-color:#FDEBD0 ;	
 width:80%;	
 text-align:center;
 font-family: 'Ubuntu', sans-serif;
@@ -138,7 +138,7 @@ box-shadow: 5px 5px 25px 8px rgba(119, 119, 119, 0.85);
 display:flex;
 flex-direction:column;	
 align-items:center;
-background-color:white;
+background-color:#FDEBD0 ;
 height:65%;
 box-shadow: 0px 0px 10px 0px rgba(119, 119, 119, 0.75);
 -moz-box-shadow: 0px 0px 10px 0px rgba(119, 119, 119, 0.75);
